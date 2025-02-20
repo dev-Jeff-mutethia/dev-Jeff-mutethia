@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on large team based project,
 - 📫 can reach me via a the email: arribion@gmail.com or via a whats app @ +254 7 88 44 56 35  
 - 😄 Pronouns: mr.
-- ⚡ Fun fact: born on sixth of sixth month
+- ⚡ Fun fact: 
 
 <!---
 dev-Jeff-mutethia/dev-Jeff-mutethia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
